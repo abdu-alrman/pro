@@ -1,5 +1,5 @@
 {
-	"name": "pro/pro",
+	"name": "baseed/pro",
     "description": "my fist progect on composer ",
     "require": {
         "php": "^7.2"
