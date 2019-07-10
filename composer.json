@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Controllers\\" : "src/Controllers",
+			"Moduls\\" : "lib/Moduls",
+			"Sys\\" : "src/Sys",
+			"Vi\\" : "src/Vi"
+
+		} 
+	}
+
+}
